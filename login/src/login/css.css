@@ -1,0 +1,23 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 3, 2015, 12:47:06 PM
+    Author     : jeroen
+*/
+
+#background {
+    -fx-background-color: #FFFFFF;
+}
+
+#menuBalk {
+    -fx-base: #D81E05;
+    -fx-background-color: linear-gradient(#D81E05 100%, #D81E05 0%);
+}
+
+.knop {
+    -fx-base: #D81E05;
+    -fx-background-color: linear-gradient(#D81E05 100%, #D81E05 0%);
+}
